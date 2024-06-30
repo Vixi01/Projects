@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Architecture 
-<img src="architecture.jpg">
+<img src="architecture.jpeg">
 
 ## Technology Used
 Amazon S3
