@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Creating a complete data pipeline to process data archieve from YouTube Data API and generate a analysis dashboard
+
 ## Architecture 
 <img src="architecture.jpeg">
 
