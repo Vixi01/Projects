@@ -16,8 +16,7 @@ QuickSight
 
 ## Generated Dashboard
 
-[https://ap-northeast-1.quicksight.aws.amazon.com/sn/dashboards/787de237-4f64-44b5-ba59-d1654ff1fa4f/views/50177859-9f4f-4899-8757-be4c9a0b977a?directory_alias=livingston
-](https://github.com/Vixi01/Projects/blob/main/YouTube%20data%20engineering/dashboard/Sheet_1_2024-06-30T04_24_55.pdf)
+https://github.com/Vixi01/Projects/blob/main/YouTube%20data%20engineering/dashboard/Sheet_1_2024-06-30T04_24_55.pdf
 
 ## Dataset Used
 
