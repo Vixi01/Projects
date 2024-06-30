@@ -23,5 +23,5 @@ https://github.com/Vixi01/Projects/blob/main/YouTube%20data%20engineering/dashbo
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Project idea source
-YouTube Data Analysis | END TO END DATA ENGINEERING PROJECT By Darshil Parmar__
+YouTube Data Analysis | END TO END DATA ENGINEERING PROJECT By Darshil Parmar\
 https://youtu.be/yZKJFKu49Dk
