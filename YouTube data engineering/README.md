@@ -15,3 +15,7 @@ QuickSight
 ## Dataset Used
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+## Project idea source
+
+https://youtu.be/yZKJFKu49Dk
