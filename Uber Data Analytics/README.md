@@ -20,5 +20,5 @@ https://lookerstudio.google.com/s/hGNRWafdlzQ
 
 
 ## Project idea source
-Uber Data Analytics | End-To-End Data Engineering Project By Darshil Parmar
+Uber Data Analytics | End-To-End Data Engineering Project By Darshil Parmar\
 https://www.youtube.com/watch?v=WpQECq5Hx9g
