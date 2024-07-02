@@ -20,6 +20,9 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ## Data Model
 <img src="data_model.jpeg">
 
+## ETL Pipe line
+<img src="ETL.png">
+
 ## Dashboard
 
 <img src="dashboard_preview.png">
