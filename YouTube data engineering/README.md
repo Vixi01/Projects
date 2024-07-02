@@ -8,10 +8,10 @@ Creating a complete data pipeline to process data archieve from YouTube Data API
 <img src="architecture.jpeg">
 
 ## Technology Used
-Amazon S3
-AWS Glue
-AWS Lambda
-AWS Athena
+Amazon S3\
+AWS Glue\
+AWS Lambda\
+AWS Athena\
 QuickSight
 
 ## Generated Dashboard
