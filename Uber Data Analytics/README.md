@@ -1,7 +1,7 @@
 # Uber Data Analytics
 
 ## Introduction
-Create analytic of Uber data with modernize data engineering tools  
+Create analytic report from Uber data with modernize data engineering tools  
 ## Architecture 
 
 <img src="architecture.jpg">
