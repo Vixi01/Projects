@@ -4,7 +4,7 @@
 
 ## Architecture 
 
-<img src="archetecture.jpg">
+<img src="architecture.jpg">
 
 ## Technology Used
 
