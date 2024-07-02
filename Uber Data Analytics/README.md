@@ -10,6 +10,6 @@
 
 ## Data Model
 
-## DashBoard
+## Dashboard
 
 https://lookerstudio.google.com/s/hGNRWafdlzQ
