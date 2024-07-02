@@ -8,11 +8,11 @@
 
 ## Technology Used
 
-Google Storage
-Compute Instance
-Mage AI
-BigQuery
-Looker Studio
+1. Google Storage
+2. Compute Instance
+3. Mage AI
+4. BigQuery
+5. Looker Studio
 
 ## Dataset Used
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
