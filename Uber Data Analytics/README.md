@@ -4,6 +4,8 @@
 
 ## Architecture 
 
+<img src="archetecture.jpg">
+
 ## Technology Used
 
 ## Dataset Used
