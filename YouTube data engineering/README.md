@@ -17,7 +17,6 @@ QuickSight
 ## Generated Dashboard
 
 <img src="YT_dashboard.png">
-https://github.com/Vixi01/Projects/blob/main/YouTube%20data%20engineering/dashboard/Sheet_1_2024-06-30T04_24_55.pdf
 
 ## Dataset Used
 
