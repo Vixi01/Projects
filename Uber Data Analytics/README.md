@@ -11,5 +11,5 @@
 ## Data Model
 
 ## Dashboard
-
+<img src="dashboard_preview.png">
 https://lookerstudio.google.com/s/hGNRWafdlzQ
