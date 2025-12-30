@@ -3,7 +3,7 @@
 
 A predictive analytics engine designed to beat the pit wall. This project uses **stochastic computational methods** and **Monte Carlo simulations** to forecast race pace and optimize pit-stop windows in real-time.
 
-* **Core Tech:** Python, Pandas, NumPy, SciPy
+* **Tech:** Python, Pandas, NumPy, SciPy
 * **Key Features:** Tire degradation modeling, undercut/overcut simulation, and safety car risk analysis.
 
 ---
