@@ -1,7 +1,7 @@
 ## 🚀 Featured Project: F1 Real-Time Strategy Engine
 > *Status: In Development (Sep 2025 - Present)*
 
-A predictive analytics engine designed to beat the pit wall. This project uses **stochastic computational methods** and **Monte Carlo simulations** to forecast race pace and optimize pit-stop windows in real-time.
+This project uses **stochastic computational methods** and **Monte Carlo simulations** to forecast race pace and optimize pit-stop windows in real-time.
 
 * **Tech:** Python, Pandas, NumPy, SciPy
 * **Key Features:** Tire degradation modeling, undercut/overcut simulation, and safety car risk analysis.
