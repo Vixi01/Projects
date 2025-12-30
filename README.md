@@ -1,5 +1,5 @@
 ## 🚀 Featured Project: F1 Real-Time Strategy Engine
-> *Status: In Development (Dec 2025 - Present)*
+> *Status: In Development (Sep 2025 - Present)*
 
 A predictive analytics engine designed to beat the pit wall. This project uses **stochastic computational methods** and **Monte Carlo simulations** to forecast race pace and optimize pit-stop windows in real-time.
 
