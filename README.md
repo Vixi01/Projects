@@ -3,7 +3,6 @@
 
 This project aim to forecast race pace and optimize pit-stop strategy in real-time.
 
-* **Tech:** Python, Pandas, NumPy, SciPy
 * **Key Features:** Tire degradation modeling, undercut/overcut simulation, and safety car risk analysis.
 
 ---
