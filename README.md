@@ -1,7 +1,22 @@
-## 🛠️ Project Portfolio
+## 🚀 Featured Project: F1 Real-Time Strategy Engine
+> *Status: In Development (Dec 2025 - Present)*
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🏎️ [F1 Strategy Engine(TBD)]** | **Predictive Analytics:** A real-time race simulation engine using Monte Carlo methods to optimize pit-stop strategies and analyze tire degradation risks. | `Python` `NumPy` `Monte Carlo` `Pandas` |
-| **🚖 [Uber Data Pipeline]** | **ETL Architecture:** Automated data pipeline using Mage AI to clean trip data, storing it in BigQuery for scalable ridership analytics. | `Mage AI` `BigQuery` `Looker` `SQL` |
-| **▶️ [YouTube Data Lake]** | **Cloud Engineering:** Serverless data ingestion pipeline on AWS, processing video metadata for trend analysis using Glue and Athena. | `AWS Lambda` `Glue` `Athena` `QuickSight` |
+A predictive analytics engine designed to beat the pit wall. This project uses **stochastic computational methods** and **Monte Carlo simulations** to forecast race pace and optimize pit-stop windows in real-time.
+
+* **Core Tech:** Python, Pandas, NumPy, SciPy
+* **Key Features:** Tire degradation modeling, undercut/overcut simulation, and safety car risk analysis.
+* **Math Focus:** Applies non-linear regression and probability theory to live telemetry data.
+
+[**View Repository »**](./F1-Strategy-Engine)
+
+---
+
+### 📂 More Engineering Projects
+
+#### 🚖 [Uber Data Analysis Pipeline](./Uber-Data-Pipeline)
+**Tech:** Mage AI, Google BigQuery, Looker Studio
+Built an automated ETL pipeline to process large-scale trip records. Designed a scalable BigQuery schema to analyze ridership metrics and visualized peak traffic patterns on Looker.
+
+#### ▶️ [YouTube Data Engineering](./YouTube-Data-Engineering)
+**Tech:** AWS (Lambda, Glue, Athena), Amazon QuickSight
+Architected a serverless data lake solution. Orchestrated ingestion of video metadata using AWS Lambda and Glue, enabling ad-hoc SQL analysis of engagement trends via Athena.
