@@ -1,18 +1,27 @@
-## F1 Real-Time Strategy Engine
-> *Status: In Development (Sep 2025 - Present)*
+# Projects
 
-This project aim to forecast race pace and optimize pit-stop strategy in real-time.
-
-* **Key Features:** Tire degradation modeling, undercut/overcut simulation, and safety car risk analysis.
+This repo houses two data engineering projects. For the full portfolio overview, visit my [GitHub profile](https://github.com/Vixi01).
 
 ---
 
-### 📂 More Engineering Projects
+## Uber Data Analysis Pipeline
 
-#### 🚖 [Uber Data Analysis Pipeline]
-**Tech:** Mage AI, Google BigQuery, Looker Studio
-Built an automated ETL pipeline to process large-scale trip records. Designed a scalable BigQuery schema to analyze ridership metrics and visualized peak traffic patterns on Looker.
+> **Tech:** Python · Mage AI · Google BigQuery · Looker Studio · GCP
 
-#### ▶️ [YouTube Data Engineering]
-**Tech:** AWS (Lambda, Glue, Athena), Amazon QuickSight
-Architected a serverless data lake solution. Orchestrated ingestion of video metadata using AWS Lambda and Glue, enabling ad-hoc SQL analysis of engagement trends via Athena.
+Built an automated ETL pipeline processing NYC TLC taxi trip records. Designed a star-schema BigQuery data model, orchestrated ingestion with Mage AI, and delivered an interactive Looker Studio dashboard analyzing ridership metrics and peak traffic patterns.
+
+**→ [View project](./Uber%20Data%20Analytics/)**
+
+---
+
+## YouTube Data Engineering
+
+> **Tech:** Python · AWS Lambda · AWS Glue · Amazon Athena · S3 · QuickSight
+
+Architected a serverless data lake on AWS for YouTube video metadata. Orchestrated ingestion via Lambda and Glue, enabling ad-hoc SQL analysis of video engagement trends through Athena with QuickSight dashboards.
+
+**→ [View project](./YouTube%20data%20engineering/)**
+
+---
+
+*More projects at [github.com/Vixi01](https://github.com/Vixi01)*
