@@ -1,10 +1,12 @@
-# Projects
+# Cloud Data Pipelines
 
-This repo houses two data engineering projects. For the full portfolio overview, visit my [GitHub profile](https://github.com/Vixi01).
+End-to-end data engineering projects built on GCP and AWS — covering ETL orchestration, data lake architecture, and analytical dashboards.
 
 ---
 
-## Uber Data Analysis Pipeline
+## Projects
+
+### Uber Data Analysis Pipeline
 
 > **Tech:** Python · Mage AI · Google BigQuery · Looker Studio · GCP
 
@@ -14,7 +16,7 @@ Built an automated ETL pipeline processing NYC TLC taxi trip records. Designed a
 
 ---
 
-## YouTube Data Engineering
+### YouTube Data Engineering
 
 > **Tech:** Python · AWS Lambda · AWS Glue · Amazon Athena · S3 · QuickSight
 
@@ -24,4 +26,4 @@ Architected a serverless data lake on AWS for YouTube video metadata. Orchestrat
 
 ---
 
-*More projects at [github.com/Vixi01](https://github.com/Vixi01)*
+*Part of the data science portfolio at [github.com/Vixi01](https://github.com/Vixi01)*
